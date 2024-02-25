@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Stock Service APIs"
+  contactDetails:
+    name: "Rahul-Java Developer"
+    email: "rahul@laderatechnology.com"
+  onCallSupport:
+    -(+91)9677210944
+    -(+91)1234567890
