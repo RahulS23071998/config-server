@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Stock Service Prod Related APIs"
+  message: "Welcome to Stock Service Prod Related APIss"
   contactDetails:
     name: "Alice-Java Developer"
     email: "rahul@laderatechnology.com"
